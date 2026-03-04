@@ -3,4 +3,6 @@ timm
 torch
 torchvision
 pillow
+
 numpy
+psutil
